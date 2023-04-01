@@ -1,0 +1,129 @@
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="resources/xmltv.xsd">
+  <channel id="TWiT.tv">
+    <display-name>Twit Live Schedule</display-name>
+  </channel>
+  <programme start="20230406190000 -0400" stop="20230406193000 -0400" channel="TWiT.tv" clumpidx="0/1">
+    <title>Home Theater Geeks (Club Twit Exclusive)</title>
+    <sub-title>&lt;P&gt;Get The Most Out Of Your Home Theater With The Latest Advances, Product Reviews, And All Things Audio And Video. Every Thursday, Scott Wilkinson Shares His Expertise, Energy, And Enthusiasm About How To Make Your A/V System Sound And Look Its Best. In This Short-Format Podcast, Scott Brings You News, Reviews, Interviews, And Commentary, And Answers Your Questions.&lt;/P&gt;&lt;P&gt;&lt;Em&gt;&lt;I&gt;Home Theater Geeks&lt;/I&gt;&lt;/Em&gt; Is An Ad-Free Club Twit Exclusive Podcast. You Can Join &lt;A Href="Https://Twit.Tv/Clubtwit"&gt;Club Twit&lt;/A&gt; For $7 A Month And Get Everything The Club Offers Or &lt;A Href="Https://Twit.Memberful.Com/Checkout?Plan=92677"&gt;Just Get The Podcast&lt;/A&gt; Ad-Free For $2.99 A Month. You Can Also Get The Ad-Free Audio Versions For $2.99 A Month On &lt;A Href="Https://Podcasts.Apple.Com/Us/Channel/Home-Theater-Geeks/Id6446123959"&gt;Apple Podcasts&lt;/A&gt;. From Time To Time, We Will Release Episodes Free To The Public.&lt;/P&gt;&lt;Br&gt;&lt;Span&gt;New Episodes Every Thursday Via Club Twit Or Apple Podcasts Paid Subscriptions.&lt;/Span&gt;&lt;Br&gt;&lt;Br&gt;&lt;A Href="Https://Twit.Tv/Shows/Home-Theater-Geeks"&gt;Https://Twit.Tv/Shows/Home-Theater-Geeks&lt;/A&gt;</sub-title>
+  </programme>
+  <programme start="20230413190000 -0400" stop="20230413193000 -0400" channel="TWiT.tv" clumpidx="0/1">
+    <title>Home Theater Geeks (Club Twit Exclusive)</title>
+    <sub-title>&lt;P&gt;Get The Most Out Of Your Home Theater With The Latest Advances, Product Reviews, And All Things Audio And Video. Every Thursday, Scott Wilkinson Shares His Expertise, Energy, And Enthusiasm About How To Make Your A/V System Sound And Look Its Best. In This Short-Format Podcast, Scott Brings You News, Reviews, Interviews, And Commentary, And Answers Your Questions.&lt;/P&gt;&lt;P&gt;&lt;Em&gt;&lt;I&gt;Home Theater Geeks&lt;/I&gt;&lt;/Em&gt; Is An Ad-Free Club Twit Exclusive Podcast. You Can Join &lt;A Href="Https://Twit.Tv/Clubtwit"&gt;Club Twit&lt;/A&gt; For $7 A Month And Get Everything The Club Offers Or &lt;A Href="Https://Twit.Memberful.Com/Checkout?Plan=92677"&gt;Just Get The Podcast&lt;/A&gt; Ad-Free For $2.99 A Month. You Can Also Get The Ad-Free Audio Versions For $2.99 A Month On &lt;A Href="Https://Podcasts.Apple.Com/Us/Channel/Home-Theater-Geeks/Id6446123959"&gt;Apple Podcasts&lt;/A&gt;. From Time To Time, We Will Release Episodes Free To The Public.&lt;/P&gt;&lt;Br&gt;&lt;Span&gt;New Episodes Every Thursday Via Club Twit Or Apple Podcasts Paid Subscriptions.&lt;/Span&gt;&lt;Br&gt;&lt;Br&gt;&lt;A Href="Https://Twit.Tv/Shows/Home-Theater-Geeks"&gt;Https://Twit.Tv/Shows/Home-Theater-Geeks&lt;/A&gt;</sub-title>
+  </programme>
+  <programme start="20230402110000 -0700" stop="20230402140000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Ask The Tech Guys</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230409110000 -0700" stop="20230409140000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Ask The Tech Guys</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230405110000 -0700" stop="20230405130000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Windows Weekly</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230412110000 -0700" stop="20230412130000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Windows Weekly</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230402141500 -0700" stop="20230402161500 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>This Week In Tech</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230409141500 -0700" stop="20230409161500 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>This Week In Tech</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230406140000 -0700" stop="20230406143000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Hands-On Windows (Club Twit Exclusive)</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230413140000 -0700" stop="20230413143000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Hands-On Windows (Club Twit Exclusive)</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230406130000 -0700" stop="20230406133000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Hands-On Mac (Club Twit Exclusive)</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230413130000 -0700" stop="20230413133000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Hands-On Mac (Club Twit Exclusive)</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230404090000 -0700" stop="20230404103000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Ios Today</title>
+    <sub-title>Join With Google Hangouts: Https://Plus.Google.Com/Hangouts/_/Ios-Today?Hceid=Bwc4Nzdmcde5Odi0Bwozmgc0Otdmcm03Ng9Az3Jvdxauy2Fszw5Kyxiuz29Vz2Xllmnvbq.Fp34Brnbrhdailopgohf9Rbmlc&amp;Hs=121</sub-title>
+  </programme>
+  <programme start="20230411090000 -0700" stop="20230411103000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Ios Today</title>
+    <sub-title>Join With Google Hangouts: Https://Plus.Google.Com/Hangouts/_/Ios-Today?Hceid=Bwc4Nzdmcde5Odi0Bwozmgc0Otdmcm03Ng9Az3Jvdxauy2Fszw5Kyxiuz29Vz2Xllmnvbq.Fp34Brnbrhdailopgohf9Rbmlc&amp;Hs=121</sub-title>
+  </programme>
+  <programme start="20230406150000 -0700" stop="20230406153000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Hands-On Photography</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230413150000 -0700" stop="20230413153000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Hands-On Photography</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230405093000 -0700" stop="20230405103000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Floss Weekly</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230412093000 -0700" stop="20230412103000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Floss Weekly</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230405140000 -0700" stop="20230405160000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>This Week In Google</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230412140000 -0700" stop="20230412160000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>This Week In Google</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230331133000 -0700" stop="20230331143000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>This Week In Enterprise Tech</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230407133000 -0700" stop="20230407143000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>This Week In Enterprise Tech</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230414133000 -0700" stop="20230414143000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>This Week In Enterprise Tech</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230406110000 -0700" stop="20230406120000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Tech News Weekly</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230413110000 -0700" stop="20230413120000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Tech News Weekly</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230404133000 -0700" stop="20230404153000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Security Now</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230411133000 -0700" stop="20230411153000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Security Now</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230404170000 -0700" stop="20230404190000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>All About Android</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230411170000 -0700" stop="20230411190000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>All About Android</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230404110000 -0700" stop="20230404130000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Macbreak Weekly</title>
+    <sub-title/>
+  </programme>
+  <programme start="20230411110000 -0700" stop="20230411130000 -0700" channel="TWiT.tv" clumpidx="0/1">
+    <title>Macbreak Weekly</title>
+    <sub-title/>
+  </programme>
+</tv>
